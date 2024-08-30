@@ -3,10 +3,24 @@
 }
 */
 body {
-    height:auto;
-    min-height: 100vh;
-    background-color: #865D36;
-      overflow: hidden !important; /* Hide scrollbars */
+    background-color: #865D36 !important;
+}
+
+.nuvado {
+    color: white;
+    font-family: 'panno-sign-positive', sans-serif; 
+    font-size: 72px; 
+    font-weight: 600; 
+    font-style: normal;
+}
+
+.text {
+    color: white;
+}
+
+
+.myImg {
+    object-fit: fill !important;
 }
 
 
