@@ -18,12 +18,6 @@ body {
     color: white;
 }
 
-
-.myImg {
-    object-fit: fill !important;
-}
-
-
 /* hide page scrollbar */
 html { scrollbar-width: none; } /* Firefox */
 body { -ms-overflow-style: none; } /* IE and Edge */
