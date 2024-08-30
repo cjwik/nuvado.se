@@ -1,0 +1,17 @@
+/* * {
+    padding: 0;margin: 0;border: 0;
+}
+*/
+body {
+    height:auto;
+      min-height: 100vh;
+      background-color: #865D36;
+      overflow: hidden !important; /* Hide scrollbars */
+  }
+
+
+/* hide page scrollbar */
+html { scrollbar-width: none; } /* Firefox */
+body { -ms-overflow-style: none; } /* IE and Edge */
+body::-webkit-scrollbar, body::-webkit-scrollbar-button { display: none; } /* Chrome */
+/* end hide page scrollbar */
